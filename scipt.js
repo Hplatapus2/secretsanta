@@ -1,0 +1,12 @@
+var one = "Heath";
+var two = "Jake";
+var three = "Josh";
+var four = "Parker";
+var five = "Luke";
+var six = "Emma";
+var sevan = "Jack";
+var eight = "Evelyn";
+var nine = "Hudson";
+var ten = "Preston";
+var name;
+document.getElementById("santa").innerHTML = name;
